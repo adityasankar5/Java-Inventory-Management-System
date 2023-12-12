@@ -34,7 +34,7 @@ The Inventory Management System is a Java-based application that provides a user
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/adityasankar5/Java-Inventory-Management-System.git>
 
 2. Open the project in your preferred Java IDE.
 3. Build and run the application.
